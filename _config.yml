@@ -62,7 +62,7 @@ author:
   bio    : "Data engineer with several years of experience with widely used data warehouses and tools such as Snowflake, Bigquery and Airflow."
   links:
     - label: "LinkedIn"
-      icon: "fas fa-fw fa-linkedin-square"
+      icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/teemu-k%C3%A4rkk%C3%A4inen-257822b6/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
